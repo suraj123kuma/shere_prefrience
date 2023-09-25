@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">shere_prefrience</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="enter_your_email">Enter your Email</string>
+</resources>
